@@ -203,7 +203,7 @@ body {
     }
   }
 }
-.doctor {
+.daaaksaab {
   height: 120px;
   width: 94%;
   background-color: #dbc8d2;
@@ -627,7 +627,7 @@ img{
       }
     }
   }
-  .doctor button {
+  .daaaksaab button {
     left: 700px;
   }
   .last-sec button {
@@ -687,7 +687,7 @@ img{
       }
     }
   }
-  .doctor {
+  .daaaksaab {
     flex-direction: column;
     img {
       position: static;
@@ -905,7 +905,7 @@ img{
       margin-top: 10px;
     }
   }
-  .doctor {
+  .daaaksaab {
     border-radius: 20px;
     img {
       width: 80px;
